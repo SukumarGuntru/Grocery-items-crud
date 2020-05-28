@@ -25,7 +25,7 @@ function ModifyItem() {
 
 	doShowAll();
 }
-//-------------------------------------------------------------------------
+//------------------------------------------------------------------------
 //delete an existing key=>value from the HTML5 storage
 function RemoveItem() {
 	var name = document.forms.ShoppingList.name.value;
